@@ -1,0 +1,9 @@
+id,id_2,startDay,startTime,endDay,endTime
+1,10,Monday,00:00:00,Monday,23:59:59
+1,10,Tuesday,00:00:00,Tuesday,23:59:59
+2,20,Wednesday,00:00:00,Wednesday,23:59:59
+2,20,Thursday,00:00:00,Thursday,23:59:59
+3,30,Friday,00:00:00,Friday,23:59:59
+3,30,Saturday,00:00:00,Saturday,23:59:59
+4,40,Sunday,00:00:00,Sunday,23:59:59
+4,40,Monday,00:00:00,Monday,23:59:59
